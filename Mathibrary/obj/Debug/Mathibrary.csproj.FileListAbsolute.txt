@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\C#\ISMCSharp\Mathibrary\bin\Debug\Mathibrary.dll
+C:\Users\User\Desktop\C#\ISMCSharp\Mathibrary\bin\Debug\Mathibrary.pdb
+C:\Users\User\Desktop\C#\ISMCSharp\Mathibrary\obj\Debug\Mathibrary.csprojAssemblyReference.cache
+C:\Users\User\Desktop\C#\ISMCSharp\Mathibrary\obj\Debug\Mathibrary.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\ISMCSharp\Mathibrary\obj\Debug\Mathibrary.dll
+C:\Users\User\Desktop\C#\ISMCSharp\Mathibrary\obj\Debug\Mathibrary.pdb

@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\C#\ISMCSharp\ConsoleQuadEquation\bin\Debug\ConsoleQuadEquation.exe.config
+C:\Users\User\Desktop\C#\ISMCSharp\ConsoleQuadEquation\bin\Debug\ConsoleQuadEquation.exe
+C:\Users\User\Desktop\C#\ISMCSharp\ConsoleQuadEquation\bin\Debug\ConsoleQuadEquation.pdb
+C:\Users\User\Desktop\C#\ISMCSharp\ConsoleQuadEquation\obj\Debug\QuadEquationWinForm.csprojAssemblyReference.cache
+C:\Users\User\Desktop\C#\ISMCSharp\ConsoleQuadEquation\obj\Debug\ConsoleQuadEquation.Form1.resources
+C:\Users\User\Desktop\C#\ISMCSharp\ConsoleQuadEquation\obj\Debug\ConsoleQuadEquation.Properties.Resources.resources
+C:\Users\User\Desktop\C#\ISMCSharp\ConsoleQuadEquation\obj\Debug\QuadEquationWinForm.csproj.GenerateResource.cache
+C:\Users\User\Desktop\C#\ISMCSharp\ConsoleQuadEquation\obj\Debug\QuadEquationWinForm.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\ISMCSharp\ConsoleQuadEquation\obj\Debug\ConsoleQuadEquation.exe
+C:\Users\User\Desktop\C#\ISMCSharp\ConsoleQuadEquation\obj\Debug\ConsoleQuadEquation.pdb
